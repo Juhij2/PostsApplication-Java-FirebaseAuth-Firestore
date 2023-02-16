@@ -1,1 +1,3 @@
 # PostsApplication-Java-FirebaseAuth-Firestore
+
+This project is for developing a forums application that enables the user to list, create, and delete forums using RecyclerViews and Firebase Authentication and Firestore. The application is required to contain one Activity and multiple fragments to implement the required screens. The first part involves creating a Login Fragment and a Create New Account Fragment with specific requirements. The second part focuses on creating a Forums Fragment that allows the user to view the list of forums, retrieve forum information from Firestore, and interact with these forums by deleting, liking, or unliking them. The Forums Fragment also enables the user to create a new forum and displays the list of forums using a RecyclerView.
